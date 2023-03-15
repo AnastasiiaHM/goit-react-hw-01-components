@@ -1,0 +1,19 @@
+.transactionHistory {
+  width: 500px;
+  border: 1px solid green;
+}
+.thead {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+
+  border: 1px solid green;
+  background-color: rgb(60, 201, 60);
+}
+.row {
+  margin: 10px;
+  font-size: 16px;
+  font-weight: 500;
+
+  background-color: rgb(109, 228, 109);
+}
